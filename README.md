@@ -5,7 +5,7 @@
 ![Vite](https://img.shields.io/badge/Vite-7.2-bd34fe?style=flat-square&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.1-38bdf8?style=flat-square&logo=tailwindcss)
 
-Sitio web institucional y catálogo de productos para Ferretería San Francisco. Desarrollado con React + Vite + TailwindCSS.
+Sitio web institucional y catálogo de productos para Tienda Online Ferretería. Desarrollado con React + Vite + TailwindCSS.
 
 ---
 
@@ -243,4 +243,4 @@ El proyecto está preparado para escalar a e-commerce:
 
 ## Licencia
 
-Proyecto privado - Ferretería San Francisco © 2024
+Proyecto privado - Tienda Online Ferretería © 2024
